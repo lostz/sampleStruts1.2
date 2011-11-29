@@ -1,0 +1,6 @@
+Database mysql Serverhostname:localhost Port:3306 Username:root Password 12345
+Schema :strus
+Table : user
+Column      Type
+username   varchar(20) primary key not null 
+password   varchar(20) not null
